@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acc22068-55c9-4e1b-80e7-b773d7b0f2bc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.X-AsteraX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.X-AsteraX/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/MainMenu_Animation.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/MainMenu_Animation.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/AssetBundle" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/AssetBundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/AssetBundle.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/AssetBundle.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/cutscene" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/cutscene" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/cutscene.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/cutscene.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/main" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/main.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/main.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/manage" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/manage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/manage.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/manage.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/playership/delta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/playership/delta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/playership/delta.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/playership/delta.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/playership/scorpion" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/playership/scorpion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/playership/scorpion.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/playership/scorpion.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/playership/scylla" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/playership/scylla" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/playership/scylla.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/playership/scylla.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/playership/t-bag" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/playership/t-bag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/playership/t-bag.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/playership/t-bag.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/welcome" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/welcome" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AssetBundle/welcome.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AssetBundle/welcome.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/google-services-desktop.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/google-services-desktop.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/Welcome.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/Welcome.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/__Scripts/Controller/SceneController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/__Scripts/Controller/SceneController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/__Scripts/Controller/WelcomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/__Scripts/Controller/WelcomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/__Scripts/Data/LoadDatabase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/__Scripts/Data/LoadDatabase.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.arfoundation@4.1.9/Runtime/AR/ARRaycastManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.burst@1.6.4/Runtime/Editor/BurstLoader.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27EInuTfELSwjFHEKFel4eIQi6n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acc22068-55c9-4e1b-80e7-b773d7b0f2bc" name="Changes" comment="" />
+      <created>1648878991115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648878991115</updated>
+      <workItem from="1648879004765" duration="63000" />
+      <workItem from="1648879203757" duration="158000" />
+      <workItem from="1648879427518" duration="166000" />
+      <workItem from="1648879618581" duration="203000" />
+      <workItem from="1649581188166" duration="2603000" />
+      <workItem from="1649608346364" duration="1122000" />
+      <workItem from="1650518339126" duration="366000" />
+      <workItem from="1650555878947" duration="1888000" />
+      <workItem from="1653838021313" duration="2111000" />
+      <workItem from="1653842334697" duration="4707000" />
+      <workItem from="1653848332455" duration="190000" />
+      <workItem from="1654187845529" duration="6397000" />
+      <workItem from="1654417469923" duration="4687000" />
+      <workItem from="1654442847386" duration="620000" />
+      <workItem from="1654445620444" duration="3460000" />
+      <workItem from="1655949605768" duration="4264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

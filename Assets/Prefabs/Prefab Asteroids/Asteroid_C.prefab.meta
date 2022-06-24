@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a6d3ccfc58a1f41368479aabb6050561
+labels:
+- Asteroid
+- Effect
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: asteroid/c
+  assetBundleVariant: 

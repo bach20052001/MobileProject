@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2127057001
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db1bfb4aac8dd63e0b38e2ea6f166aea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4506e2cf3d5ee6f4e2b0bf56ea6ac409
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Particles/AlphaMove.prefab
+Dependencies: []
